@@ -1,3 +1,20 @@
+⚠️ PROPRIETARY RIGHTS NOTICE (Governing Notice)
+All materials contained in this repository are the proprietary property of Southern Star Pro Studios L.L.C. and are protected under United States and international copyright, trade secret, and intellectual property laws.
+
+No license, permission, or right of use is granted by accessing or viewing this repository. Unauthorized copying, reproduction, distribution, modification, reverse‑engineering, or use of any portion of the materials is strictly prohibited without prior written authorization from Southern Star Pro Studios L.L.C.
+
+All rights, titles, and interests in and to the materials remain exclusively with Southern Star Pro Studios L.L.C. Nothing in this repository shall be interpreted as a waiver of any rights or remedies available under applicable law.
+
+For licensing or authorized access inquiries, contact: SpencerSouthern12@gmail.com
+
+Note: The file previously named license.md has been formally replaced with IP‑Notice.md, which now serves as the authoritative protection notice for this repository.
+
+This repository uses the SSPS continuity framework. Older vaults may contain earlier protection notices; all rights remain reserved under both the original notices and this unified protection standard.
+
+🛡️ SUPERSESSION CLAUSE 1-22-2026
+The notice above is the single governing protection layer for this repository.
+All content below this line—including older notices, drafts, or descriptive files—is preserved only for archival continuity and is fully superseded.
+
 The SSPS IP stack, including Mint-to Logic™, The Shepherd’s Method™, and all governing logic, is protected under U.S. and international trade secret and copyright frameworks. Certain elements have been publicly disclosed for continuity and copyright purposes, while core governing logic remains confidential and has never been voluntarily disclosed in a manner that constitutes waiver.
 
 By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law.
