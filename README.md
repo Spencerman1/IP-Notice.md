@@ -1,3 +1,14 @@
+
+⚠️ NOTICE OF STATUS CHANGE
+
+This repository will be transitioned to private status no earlier than 24 hours from the time of this notice.
+
+The change is being made for correction, consolidation, and stabilization of materials.
+
+No license or right of use is granted by access during this period.
+
+All intellectual property rights remain fully reserved.
+
 ⚠️ PROPRIETARY RIGHTS NOTICE (Governing Notice)
 All materials contained in this repository are the proprietary property of Southern Star Pro Studios L.L.C. and are protected under United States and international copyright, trade secret, and intellectual property laws.
 
